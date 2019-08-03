@@ -1,0 +1,10 @@
+{
+  "exclusive_classes":true,
+  "architecture":"simple_cnn",
+  "labels":[
+    "POSITIVE",
+    "NEGATIVE",
+    "NEUTRAL"
+  ],
+  "pretrained_vectors":"en_vectors_web_lg.vectors"
+}
